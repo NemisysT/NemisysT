@@ -14,7 +14,9 @@
   </a>
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ214aTB2N2VpNGNkb2Y5amZ0c3U0MzY4c2VlNHJvY3htYXFibTF3bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif">
+
+
 
 ## 💫 About Me
 
@@ -24,12 +26,9 @@ I'm a passionate Full Stack Developer and UI/UX Designer with a love for creatin
 - 🌱 I'm exploring **Three.js, Framer Motion, and advanced animation techniques**
 - 👯 I'm looking to collaborate on **innovative web applications and open-source projects**
 - 💬 Ask me about **React, Next.js, UI/UX Design, or Competitive Programming**
-- 🎯 2024 Goals: **Contribute more to open source and master 3D web experiences**
-- ⚡ Fun fact: **When I'm not coding, I'm probably solving algorithmic problems or designing interfaces**
+- 🎯 2025 Goals: **Contribute more to open source and master 3D web experiences**
+- ⚡ Fun fact: **When I'm not coding, I'm most likely making new memories**
 
-<div align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&layout=churchill&font=Redressed" alt="Quote" />
-</div>
 
 ## 🌐 Connect With Me
 
@@ -186,11 +185,6 @@ I'm a passionate Full Stack Developer and UI/UX Designer with a love for creatin
 </div>
 
 
-
-## 🎵 Currently Vibing To
-<div align="center">
-  <img src="[https://spotify-github-profile.vercel.app/api/view?uid=31dkxgqbj5iqsdgpvgjm5vqzlxoq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true](https://open.spotify.com/playlist/1llPFFodMnbhZuzPbwstqz?si=587c22c5d2e6450d)" alt="Spotify" />
-</div>
 
 ---
 
