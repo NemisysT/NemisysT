@@ -115,26 +115,6 @@ I'm a passionate Full Stack Developer and UI/UX Designer with a love for creatin
   <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
 </div>
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://portfolio-s4pa-one.vercel.app/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NemisysT&repo=portfolio&theme=tokyonight" alt="Portfolio Project" />
-  </a>
-  <a href="https://github.com/NemisysT" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NemisysT&repo=project-name-2&theme=tokyonight" alt="Project 2" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/NemisysT" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NemisysT&repo=project-name-3&theme=tokyonight" alt="Project 3" />
-  </a>
-  <a href="https://github.com/NemisysT" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NemisysT&repo=project-name-4&theme=tokyonight" alt="Project 4" />
-  </a>
-</div>
-
 ## 📊 GitHub Stats
 
 <div align="center">
