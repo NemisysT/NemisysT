@@ -123,14 +123,6 @@ I'm a passionate Full Stack Developer and UI/UX Designer with a love for creatin
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NemisysT&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
-
----
-
 ## 🎯 Current Focus
 
 <div align="center">
