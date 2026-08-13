@@ -6,15 +6,22 @@ I build systems that look at the physical world and decide something about it. R
 
 [Portfolio](https://portfolio-s4pa-one.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mervin-mandanna/) · [Email](mailto:mervin10122004@gmail.com)
 
+```
+NOW        Computer vision · Patil I-Labs
+WORK       Axios · Equiflow · Alertic · DigiGrub
+STACK      PyTorch · FastAPI · Next.js · Solidity
+ELSEWHERE  ByteXync · CTFs · one unexplained puzzle
+```
+
 ## Now
 
-**Intern–Scientist at Patil I-Labs**, building computer vision for Machine Vision Inspection Systems — automated defect detection on railway wheels. Line-scan imagery, geometric correction, wheel boundary extraction, segmentation, and synthetic data generation to cover the defect classes that reality doesn't hand you enough of.
+**Intern–Scientist at Patil I-Labs**, building computer vision for Machine Vision Inspection Systems — automated defect detection on railway wheels. Line-scan imagery, geometric correction, wheel boundary extraction, segmentation, and synthetic data for the defect classes reality doesn't hand you enough of.
 
-Alongside it, four things hold my attention:
+Four things hold my attention alongside it:
 
 - Multi-view geometry and reconstruction from line-scan and photogrammetric imagery
 - Synthetic data for defect classes that barely exist in the wild
-- Hybrid static/dynamic analysis for Android malware — continuing the IIT Roorkee work, where I co-authored a paper on a hybrid detection framework
+- Hybrid static/dynamic analysis for Android malware, continuing the IIT Roorkee work where I co-authored a paper on a hybrid detection framework
 - Getting models out from behind notebooks and into APIs someone can actually call
 
 ## Selected work
@@ -27,7 +34,7 @@ An agent that finds internships, rewrites your resume for each one, and applies 
 
 `Flask` · `Next.js` · `MongoDB` · `Selenium` · `Gemini`
 
-Job boards don't talk to each other, and a static resume loses to a keyword filter it never sees. Axios scrapes Internshala, LinkedIn and Unstop into a single index, scores a resume against a specific posting, rewrites it, and drives the application through a real browser session. A Chrome extension bookmarks postings from anywhere on the web and syncs them back. The interesting part wasn't the model — it was keeping three brittle scrapers alive behind one stable API.
+Job boards don't talk to each other, and a static resume loses to a keyword filter it never sees. Axios scrapes Internshala, LinkedIn and Unstop into one index, scores a resume against a specific posting, rewrites it, and drives the application through a real browser session. A Chrome extension captures postings from anywhere and syncs them back. The hard part wasn't the model — it was keeping three brittle scrapers alive behind one stable API.
 
 [Repository →](https://github.com/NemisysT/Axios)
 
@@ -37,7 +44,7 @@ Equity for open-source contributors, computed from what they actually committed.
 
 `Solidity` · `Hardhat` · `OpenZeppelin` · `Next.js`
 
-An ERC-20 contract that maps GitHub usernames to wallets, tracks contribution metrics — commits, pull requests, reviews, issues resolved, lines moved — and distributes revenue against them. Contributors go inactive after a threshold; an authorised backend is the only thing allowed to write scores; the whole surface is reentrancy-guarded and pausable. Small on purpose. The one project here where the rules live in the contract instead of in my backend, and can't be quietly changed later.
+An ERC-20 contract that maps GitHub usernames to wallets, scores contribution — commits, pull requests, reviews, issues resolved, lines moved — and distributes revenue against it. Contributors lapse after an inactivity threshold; only an authorised backend can write scores; the surface is reentrancy-guarded and pausable. Small on purpose: it's the one project here where the rules live in the contract rather than my backend, and can't be quietly changed later.
 
 [Repository →](https://github.com/NemisysT/Equiflow)
 
@@ -47,7 +54,7 @@ Real-time disaster alerts, community reporting, and an assistant that stays usef
 
 `Next.js` · `Flask` · `PostgreSQL` · `Prisma` · `Leaflet` · `Gemini`
 
-Official disaster feeds are authoritative but slow. People on the ground are fast but unverified. Alertic puts both on one map — live regional alerts beside user-submitted reports, with community verification to keep the second kind honest — plus a Gemini-backed assistant for preparedness and response questions. Next.js frontend, Flask API, Postgres behind Prisma.
+Official disaster feeds are authoritative but slow. People on the ground are fast but unverified. Alertic puts both on one map — live regional alerts beside user-submitted reports, with community verification to keep the second kind honest — plus a Gemini-backed assistant for preparedness and response questions.
 
 [Live](https://alertic.vercel.app) · [Repository →](https://github.com/NemisysT/Alertic)
 
@@ -63,23 +70,13 @@ Pre-ordering, live menu availability, and stock that decrements as orders land, 
 
 ## Stack
 
-**Vision and learning** — CNNs, segmentation, feature matching, homography estimation, multi-view geometry.
+The methods I reach for first: CNNs, segmentation, feature matching, homography estimation, multi-view geometry. Then whatever it takes to put the result behind an API someone else can call.
 
-`PyTorch` · `TensorFlow` · `OpenCV` · `scikit-image` · `scikit-learn` · `NumPy` · `COLMAP`
-
-**Backend and data** — services, pipelines, and the schemas underneath them.
-
-`Python` · `Go` · `C++` · `FastAPI` · `Flask` · `Node.js` · `PostgreSQL` · `MongoDB`
-
-**Interface** — where the model meets someone who isn't me.
-
-`TypeScript` · `React` · `Next.js` · `Tailwind`
-
-**Malware analysis** — static, dynamic, and hybrid.
-
-`Androguard` · `DroidBox` · `Cuckoo Sandbox`
-
-Plus the usual foundation: `Docker` · `Linux` · `Git` · `AWS`
+- **Vision and learning** — `PyTorch` `TensorFlow` `OpenCV` `scikit-image` `scikit-learn` `NumPy` `COLMAP`
+- **Backend and data** — `Python` `Go` `C++` `FastAPI` `Flask` `Node.js` `PostgreSQL` `MongoDB`
+- **Interface** — `TypeScript` `React` `Next.js` `Tailwind`
+- **Malware analysis** — `Androguard` `DroidBox` `Cuckoo Sandbox`
+- **Foundation** — `Docker` `Linux` `Git` `AWS`
 
 ## Elsewhere
 
