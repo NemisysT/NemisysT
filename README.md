@@ -4,7 +4,7 @@ Computer vision and applied machine learning — and the software that carries i
 
 I build systems that look at the physical world and decide something about it. Right now that means deep learning for industrial inspection at Patil I-Labs. Before that, malware detection research at IIT Roorkee. Throughout, I ship full products, because a model that never leaves the notebook isn't worth much.
 
-[Portfolio](https://portfolio-s4pa-one.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mervin-mandanna/) · [Email](mailto:mervin10122004@gmail.com)
+[Portfolio](https://www.nemisys.dev/film) · [LinkedIn](https://www.linkedin.com/in/mervin-mandanna/) · [Email](mailto:mervin10122004@gmail.com)
 
 ```
 NOW        Computer vision · Patil I-Labs
