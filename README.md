@@ -7,7 +7,7 @@ I build systems that look at the physical world and decide something about it. R
 [Portfolio](https://www.nemisys.dev/film) · [LinkedIn](https://www.linkedin.com/in/mervin-mandanna/) · [Email](mailto:mervin10122004@gmail.com)
 
 ```
-WORK        Computer vision · Patil I-Labs
+WORK       Computer vision · Patil I-Labs
 RESEARCH   Purpose-Scoped Consent Withdrawal in Federated Personalization:Erasure Efficacy, Withdrawal Leakage, and Privacy Accounting
 ELSEWHERE  ByteXync · CTFs · one unexplained puzzle
 ```
